@@ -29,7 +29,7 @@ with columns re-ordered:
 
 # Installing Tad
 
-The easiest way to install the Tad desktop app is to use a pre-packaged binary release. See [The Tad Landing Page](http://tadviewer.com/#news) for information on the latest release and download links, or go straight to the [releases](releases) page.
+The easiest way to install the Tad desktop app is to use a pre-packaged binary release. See [The Tad Landing Page](http://tadviewer.com/#news) for information on the latest release and download links, or go straight to the <a href="./releases" target="_top">releases</a> page.
 
 # History and What's Here
 
